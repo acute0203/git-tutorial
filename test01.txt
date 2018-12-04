@@ -7,4 +7,3 @@ test third line
 test forth line
 
 test fifth line
-test conflict line
